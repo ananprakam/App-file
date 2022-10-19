@@ -16,10 +16,13 @@ appicetionShop คือ APPซื้อเสื้อผ้ากีฬา
 
 
 # Use Interface Design
-เริ่มต้น
-![Image](![login](https://user-images.githubusercontent.com/109132755/196706847-60541886-63e9-42ec-b663-5f64b7de86ec.jpg)
-)
+เข้าสู่ระบบ
+![Image](https://ibb.co/bvjzJWN)
 
+
+สมัครสมาชิก
+![Image](![register](https://user-images.githubusercontent.com/109132755/196707320-4761b0df-a262-4299-817d-847db04c1bb8.jpg)
+)
 
 A few resources to get you started if this is your first Flutter project:
 
