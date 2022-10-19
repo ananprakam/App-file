@@ -11,10 +11,14 @@ appicetionShop คือ APPซื้อเสื้อผ้ากีฬา
 
 
 #### Use Case Diagram
-![Image] (https://user-images.githubusercontent.com/109132755/196705687-941a4c32-46f8-4418-bba0-0c7f47d26304.jpg)
+![Image] (![Use case diagram](https://user-images.githubusercontent.com/109132755/196706113-ec75c6bb-c8da-428a-87c9-88deb1d63e57.jpg)
+)
 
 
-Format: ![Alt text](url)
+# Use Interface Design
+เริ่มต้น
+![Image](![login](https://user-images.githubusercontent.com/109132755/196706847-60541886-63e9-42ec-b663-5f64b7de86ec.jpg)
+)
 
 
 A few resources to get you started if this is your first Flutter project:
