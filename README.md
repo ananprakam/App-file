@@ -9,7 +9,12 @@ appicetionShop คือ APPซื้อเสื้อผ้ากีฬา
 ###Video
 [Youtube](https://youtu.be/TudIeAYi_6c)
 
-This project is a starting point for a Flutter application.
+
+#### Use Case Diagram
+![Image]( ![Use case diagram](https://user-images.githubusercontent.com/109132755/196705687-941a4c32-46f8-4418-bba0-0c7f47d26304.jpg)
+)
+
+Format: ![Alt text](url)
 
 
 A few resources to get you started if this is your first Flutter project:
