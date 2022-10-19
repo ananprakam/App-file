@@ -2,9 +2,15 @@
 
 appicetionShop คือ APPซื้อเสื้อผ้ากีฬา
 
-## Getting Started
+## ที่มาของปัญหา
+
+ผู้คนที่ชื่นชอบเสื้อผ้ากีฬาฟุตบอล อาจจะมีเฉพาะบางคนที่ไม่รู้ราคาของเสื้อผ้า เราจึงทำAPPตัวนี้ขึ้นมา
+
+###Video
+[Youtube](https://youtu.be/TudIeAYi_6c)
 
 This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
