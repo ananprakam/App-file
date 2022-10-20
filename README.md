@@ -8,8 +8,7 @@ appicetionShop คือ APPซื้อเสื้อผ้ากีฬา
 
 
 #### Use Case Diagram
-![Image] (![Use case diagram](https://user-images.githubusercontent.com/109132755/196706113-ec75c6bb-c8da-428a-87c9-88deb1d63e57.jpg)
-)
+![Image](https://sv1.picz.in.th/images/2022/10/20/v0vHcP.jpg)
 
 
 # Use Interface Design
